@@ -1,12 +1,12 @@
 <?php return array (
   'site_name' => 'Movie_Index',
   'password' => 'Oxrkxrk.123',
-  'style' => 'material',
-  'onedrive_root' => 'nexmoe',
+  'style' => 'nexmoe',
+  'onedrive_root' => '',
   'cache_type' => 'secache',
   'cache_expire_time' => 3600,
   'cache_refresh_time' => 600,
-  'root_path' => '/影片',
+  'root_path' => '?',
   'show' => 
   array (
     'stream' => 
