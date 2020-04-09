@@ -1,5 +1,5 @@
 <?php return array (
-  'site_name' => 'Film_Index',
+  'site_name' => 'Films_Index',
   'password' => 'Oxrkxrk.123',
   'style' => 'nexmoe',
   'onedrive_root' => '/影片',
@@ -92,9 +92,10 @@
     'exts' => 
     array (
       0 => 'jpg',
-      1 => 'png',
-      2 => 'gif',
-      3 => 'bmp',
+      1 => 'jpeg',
+      2 => 'png',
+      3 => 'gif',
+      4 => 'bmp',
     ),
   ),
   'client_secret' => 'elrsWJT52(*jgbECFU184(|',
