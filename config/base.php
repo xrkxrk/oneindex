@@ -1,5 +1,5 @@
 <?php return array (
-  'site_name' => 'Filmsss_Index',
+  'site_name' => 'Film_Index',
   'password' => 'Oxrkxrk.123',
   'style' => 'nexmoe',
   'onedrive_root' => '/影片',
