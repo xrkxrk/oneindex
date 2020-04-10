@@ -1,7 +1,7 @@
 <?php return array (
   'site_name' => 'Film_Index',
   'password' => 'Oxrkxrk.123',
-  'style' => 'nexmoe',
+  'style' => 'material',
   'onedrive_root' => '/影片',
   'cache_type' => 'secache',
   'cache_expire_time' => 3600,
