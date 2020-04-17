@@ -2,7 +2,7 @@
   'site_name' => 'Film_Index',
   'password' => 'Oxrkxrk.123',
   'style' => 'nexmoe',
-  'onedrive_root' => '/影片',
+  'onedrive_root' => '/OneSite',
   'cache_type' => 'secache',
   'cache_expire_time' => 3600,
   'cache_refresh_time' => 600,
